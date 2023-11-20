@@ -99,14 +99,6 @@
         <attribute name='action'>win.close</attribute>
       </item>
     </section>
-
-    <section>
-      <item>
-        <attribute name='label' translatable='yes'>About vipsdisp</attribute>
-        <attribute name='action'>app.about</attribute>
-      </item>
-    </section>
-
   </menu>
 
   <template class="ImageWindow" parent="GtkApplicationWindow">
